@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../../../../../styles/Footer.module.css'
+import styles from '../../../../styles/Footer.module.css'
 import Logo from '../../Logo'
 import { Row, Col } from "react-bootstrap"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
